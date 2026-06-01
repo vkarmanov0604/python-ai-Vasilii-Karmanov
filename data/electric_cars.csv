@@ -1,0 +1,101 @@
+car,carLabel,manufacturer,manufacturerLabel,inception,inceptionYear,typeLabel
+http://www.wikidata.org/entity/Q10656486,Q10656486,,,,,электромобиль
+http://www.wikidata.org/entity/Q124713738,Q124713738,http://www.wikidata.org/entity/Q2621897,Львовский автобусный завод,,,электромобиль
+http://www.wikidata.org/entity/Q25423851,Q25423851,,,1967-01-01T00:00:00Z,1967,электромобиль
+http://www.wikidata.org/entity/Q25423851,Q25423851,,,1967-01-01T00:00:00Z,1967,прототип
+http://www.wikidata.org/entity/Q56303189,Q56303189,,,,,электромобиль
+http://www.wikidata.org/entity/Q56364966,Q56364966,,,,,электромобиль
+http://www.wikidata.org/entity/Q122216922,BMW Vision Neue Klasse,,,,,электромобиль
+http://www.wikidata.org/entity/Q134822735,BYD Tang L,http://www.wikidata.org/entity/Q2608329,BYD,,,электромобиль
+http://www.wikidata.org/entity/Q135645517,Baidu robotaxi,http://www.wikidata.org/entity/Q1065539,Jiangling Motors,,,электромобиль
+http://www.wikidata.org/entity/Q135645517,Baidu robotaxi,http://www.wikidata.org/entity/Q1065539,Jiangling Motors,,,модель автомобиля
+http://www.wikidata.org/entity/Q135645517,Baidu robotaxi,http://www.wikidata.org/entity/Q1065539,Jiangling Motors,,,беспилотное такси
+http://www.wikidata.org/entity/Q29113173,"Bugatti type 52 ""Baby"" 1927",,,1927-01-01T00:00:00Z,1927,игрушка
+http://www.wikidata.org/entity/Q29113173,"Bugatti type 52 ""Baby"" 1927",,,1927-01-01T00:00:00Z,1927,электромобиль
+http://www.wikidata.org/entity/Q29113173,"Bugatti type 52 ""Baby"" 1927",,,1927-01-01T00:00:00Z,1927,antique car
+http://www.wikidata.org/entity/Q25105076,Chrysler ETV-1,http://www.wikidata.org/entity/Q181114,Stellantis North America,1979-01-01T00:00:00Z,1979,электромобиль
+http://www.wikidata.org/entity/Q25105076,Chrysler ETV-1,http://www.wikidata.org/entity/Q181114,Stellantis North America,1979-01-01T00:00:00Z,1979,концепт-кар
+http://www.wikidata.org/entity/Q3001322,Courreges ZOOOP,,,,,электромобиль
+http://www.wikidata.org/entity/Q113158189,Elcat Cityvan,http://www.wikidata.org/entity/Q1325489,Elcat Electric Vehicles,1990-01-01T00:00:00Z,1990,электромобиль
+http://www.wikidata.org/entity/Q113158189,Elcat Cityvan,http://www.wikidata.org/entity/Q1325489,Elcat Electric Vehicles,1990-01-01T00:00:00Z,1990,модель автомобиля
+http://www.wikidata.org/entity/Q113158437,Elcat Cityvan 200,http://www.wikidata.org/entity/Q1325489,Elcat Electric Vehicles,1995-01-01T00:00:00Z,1995,электромобиль
+http://www.wikidata.org/entity/Q113158437,Elcat Cityvan 200,http://www.wikidata.org/entity/Q1325489,Elcat Electric Vehicles,1995-01-01T00:00:00Z,1995,модель автомобиля
+http://www.wikidata.org/entity/Q113145207,Elcat Cityvan 202,http://www.wikidata.org/entity/Q1325489,Elcat Electric Vehicles,1999-01-01T00:00:00Z,1999,электромобиль
+http://www.wikidata.org/entity/Q113145207,Elcat Cityvan 202,http://www.wikidata.org/entity/Q1325489,Elcat Electric Vehicles,1999-01-01T00:00:00Z,1999,модель автомобиля
+http://www.wikidata.org/entity/Q109463226,Eli Zero,http://www.wikidata.org/entity/Q109461979,Eli EV,,,электромобиль
+http://www.wikidata.org/entity/Q109463226,Eli Zero,http://www.wikidata.org/entity/Q109461979,Eli EV,,,Квадрицикл
+http://www.wikidata.org/entity/Q109463226,Eli Zero,http://www.wikidata.org/entity/Q109461979,Eli EV,,,модель автомобиля
+http://www.wikidata.org/entity/Q115802572,Evetta,,,,,электромобиль
+http://www.wikidata.org/entity/Q5470273,Formula AE,,,,,электромобиль
+http://www.wikidata.org/entity/Q115680355,Grégoire / C.G.E. Tudor cabriolet,http://www.wikidata.org/entity/Q719010,Jean-Albert Grégoire,1942-01-01T00:00:00Z,1942,электромобиль
+http://www.wikidata.org/entity/Q115680355,Grégoire / C.G.E. Tudor cabriolet,http://www.wikidata.org/entity/Q18077343,Compagnie générale d'électricité,1942-01-01T00:00:00Z,1942,электромобиль
+http://www.wikidata.org/entity/Q115680355,Grégoire / C.G.E. Tudor cabriolet,http://www.wikidata.org/entity/Q719010,Jean-Albert Grégoire,1942-01-01T00:00:00Z,1942,antique car
+http://www.wikidata.org/entity/Q115680355,Grégoire / C.G.E. Tudor cabriolet,http://www.wikidata.org/entity/Q18077343,Compagnie générale d'électricité,1942-01-01T00:00:00Z,1942,antique car
+http://www.wikidata.org/entity/Q115797284,Grégoire / C.G.E. electric light commercial vehicle,,,1972-01-01T00:00:00Z,1972,электромобиль
+http://www.wikidata.org/entity/Q115797284,Grégoire / C.G.E. electric light commercial vehicle,,,1972-01-01T00:00:00Z,1972,концепт-кар
+http://www.wikidata.org/entity/Q115797284,Grégoire / C.G.E. electric light commercial vehicle,,,1972-01-01T00:00:00Z,1972,antique car
+http://www.wikidata.org/entity/Q5620010,Gurgel E500,http://www.wikidata.org/entity/Q1555170,Гургель,,,электромобиль
+http://www.wikidata.org/entity/Q13635553,Gurgel Itaipu,http://www.wikidata.org/entity/Q1555170,Гургель,,,электромобиль
+http://www.wikidata.org/entity/Q13635553,Gurgel Itaipu,http://www.wikidata.org/entity/Q1555170,Гургель,,,модель автомобиля
+http://www.wikidata.org/entity/Q139674794,Hyundai Ioniq 6 N,http://www.wikidata.org/entity/Q55931,Hyundai Motor,,,электромобиль
+http://www.wikidata.org/entity/Q139674794,Hyundai Ioniq 6 N,http://www.wikidata.org/entity/Q55931,Hyundai Motor,,,аккумуляторный электротранспорт
+http://www.wikidata.org/entity/Q130302219,Kilow La Bagnole,http://www.wikidata.org/entity/Q135297745,Kilow,,,электромобиль
+http://www.wikidata.org/entity/Q130302219,Kilow La Bagnole,http://www.wikidata.org/entity/Q135297745,Kilow,,,Мотоколяска
+http://www.wikidata.org/entity/Q130302219,Kilow La Bagnole,http://www.wikidata.org/entity/Q135297745,Kilow,,,Quadricycle
+http://www.wikidata.org/entity/Q65016202,Lightyear 0,http://www.wikidata.org/entity/Q118559,Valmet Automotive,,,электромобиль
+http://www.wikidata.org/entity/Q65016202,Lightyear 0,http://www.wikidata.org/entity/Q118559,Valmet Automotive,,,Электромобили на солнечных батареях
+http://www.wikidata.org/entity/Q65016202,Lightyear 0,http://www.wikidata.org/entity/Q118559,Valmet Automotive,,,модель автомобиля
+http://www.wikidata.org/entity/Q113379776,MUVA,,,,,электромобиль
+http://www.wikidata.org/entity/Q122216758,Mercedes-Benz Concept CLA Class,http://www.wikidata.org/entity/Q27530,Mercedes-Benz Group,,,электромобиль
+http://www.wikidata.org/entity/Q122216758,Mercedes-Benz Concept CLA Class,http://www.wikidata.org/entity/Q27530,Mercedes-Benz Group,,,концепт-кар
+http://www.wikidata.org/entity/Q122216758,Mercedes-Benz Concept CLA Class,http://www.wikidata.org/entity/Q27530,Mercedes-Benz Group,,,Фастбэк
+http://www.wikidata.org/entity/Q109631713,Mia EV,,,,,электромобиль
+http://www.wikidata.org/entity/Q138796778,Milburn Light Electric,http://www.wikidata.org/entity/Q57539548,Milburn Wagon Company,,,электромобиль
+http://www.wikidata.org/entity/Q6883052,Mitsubishi Fuso Canter Eco Hybrid,,,,,электромобиль
+http://www.wikidata.org/entity/Q113366312,Nissan Altra,http://www.wikidata.org/entity/Q20165,Nissan,,,электромобиль
+http://www.wikidata.org/entity/Q113366312,Nissan Altra,http://www.wikidata.org/entity/Q20165,Nissan,,,модель автомобиля
+http://www.wikidata.org/entity/Q1535876,Nissan Hypermini,http://www.wikidata.org/entity/Q20165,Nissan,,,электромобиль
+http://www.wikidata.org/entity/Q1535876,Nissan Hypermini,http://www.wikidata.org/entity/Q20165,Nissan,,,модель автомобиля
+http://www.wikidata.org/entity/Q122216806,Opel Experimental Concept,http://www.wikidata.org/entity/Q97439162,Stellantis,,,электромобиль
+http://www.wikidata.org/entity/Q122216806,Opel Experimental Concept,http://www.wikidata.org/entity/Q97439162,Stellantis,,,концепт-кар
+http://www.wikidata.org/entity/Q21235013,Phoenix II,,,,,спортпрототип
+http://www.wikidata.org/entity/Q21235013,Phoenix II,,,,,Электромобили на солнечных батареях
+http://www.wikidata.org/entity/Q64361760,SEAT Mii Electric,,,,,электромобиль
+http://www.wikidata.org/entity/Q2752383,Segway PUMA,http://www.wikidata.org/entity/Q81965,General Motors,,,транспортное средство
+http://www.wikidata.org/entity/Q2752383,Segway PUMA,http://www.wikidata.org/entity/Q81965,General Motors,,,электромобиль
+http://www.wikidata.org/entity/Q85847292,Spark ODYSSEY 21,http://www.wikidata.org/entity/Q30592189,Spark Racing Technology,,,электромобиль
+http://www.wikidata.org/entity/Q85847292,Spark ODYSSEY 21,http://www.wikidata.org/entity/Q30592189,Spark Racing Technology,,,внедорожник
+http://www.wikidata.org/entity/Q2264415,Tokai Challenger,http://www.wikidata.org/entity/Q963709,Университет Токай,,,Электромобили на солнечных батареях
+http://www.wikidata.org/entity/Q2264415,Tokai Challenger,http://www.wikidata.org/entity/Q963709,Университет Токай,,,средство передвижения на солнечной энергии
+http://www.wikidata.org/entity/Q129803551,Toyota LQ Concept (2019),http://www.wikidata.org/entity/Q53268,Toyota,,,электромобиль
+http://www.wikidata.org/entity/Q129803551,Toyota LQ Concept (2019),http://www.wikidata.org/entity/Q53268,Toyota,,,концепт-кар
+http://www.wikidata.org/entity/Q122216739,Volkswagen ID.GTI Concept,http://www.wikidata.org/entity/Q156578,Volkswagen,,,электромобиль
+http://www.wikidata.org/entity/Q122216739,Volkswagen ID.GTI Concept,http://www.wikidata.org/entity/Q156578,Volkswagen,,,концепт-кар
+http://www.wikidata.org/entity/Q122216739,Volkswagen ID.GTI Concept,http://www.wikidata.org/entity/Q156578,Volkswagen,,,Горячий хетчбэк
+http://www.wikidata.org/entity/Q12104980,ZAZ Lanos Pick-up,,,,,электромобиль
+http://www.wikidata.org/entity/Q12104980,ZAZ Lanos Pick-up,,,,,модель автомобиля
+http://www.wikidata.org/entity/Q137735805,Zoox Robotaxi (VH6),http://www.wikidata.org/entity/Q65121026,Zoox,,,электромобиль
+http://www.wikidata.org/entity/Q137735805,Zoox Robotaxi (VH6),http://www.wikidata.org/entity/Q65121026,Zoox,,,модель автомобиля
+http://www.wikidata.org/entity/Q137735805,Zoox Robotaxi (VH6),http://www.wikidata.org/entity/Q65121026,Zoox,,,беспилотное такси
+http://www.wikidata.org/entity/Q86733857,Citroën Ami,http://www.wikidata.org/entity/Q6746,Citroën,,,электромобиль
+http://www.wikidata.org/entity/Q86733857,Citroën Ami,http://www.wikidata.org/entity/Q6746,Citroën,,,Квадрицикл
+http://www.wikidata.org/entity/Q86733857,Citroën Ami,http://www.wikidata.org/entity/Q6746,Citroën,,,модель автомобиля
+http://www.wikidata.org/entity/Q86733857,Citroën Ami,http://www.wikidata.org/entity/Q6746,Citroën,,,моторный квадрицикл
+http://www.wikidata.org/entity/Q97170323,Cupra Born,http://www.wikidata.org/entity/Q188217,SEAT,,,электромобиль
+http://www.wikidata.org/entity/Q97170323,Cupra Born,http://www.wikidata.org/entity/Q8352675,Cupra,,,электромобиль
+http://www.wikidata.org/entity/Q122454984,Cupra Raval,http://www.wikidata.org/entity/Q188217,SEAT,2026-01-01T00:00:00Z,2026,электромобиль
+http://www.wikidata.org/entity/Q126598301,Hyundai Inster,http://www.wikidata.org/entity/Q55931,Hyundai Motor,,,электромобиль
+http://www.wikidata.org/entity/Q126598301,Hyundai Inster,http://www.wikidata.org/entity/Q55931,Hyundai Motor,,,модель автомобиля
+http://www.wikidata.org/entity/Q124378723,JMEV 01,http://www.wikidata.org/entity/Q60788207,JMEV,,,электромобиль
+http://www.wikidata.org/entity/Q4042547,LADA Rapan,,,,,электромобиль
+http://www.wikidata.org/entity/Q4042547,LADA Rapan,,,,,концепт-кар
+http://www.wikidata.org/entity/Q115913459,Mercedes-Benz eSprinter,,,,,электромобиль
+http://www.wikidata.org/entity/Q25438979,Synchronous (электромобиль),,,,,электромобиль
+http://www.wikidata.org/entity/Q46845259,Tesla Roadster Илона Маска,http://www.wikidata.org/entity/Q478214,"Tesla, Inc.",,,Tesla Roadster
+http://www.wikidata.org/entity/Q46845259,Tesla Roadster Илона Маска,http://www.wikidata.org/entity/Q478214,"Tesla, Inc.",,,искусственный спутник Солнца
+http://www.wikidata.org/entity/Q106609510,Toyota COMS,http://www.wikidata.org/entity/Q11321695,Toyota Auto Body,,,электромобиль
+http://www.wikidata.org/entity/Q19521626,ВАЗ-1801,,,,,электромобиль
+http://www.wikidata.org/entity/Q19521626,ВАЗ-1801,,,,,концепт-кар
+http://www.wikidata.org/entity/Q19521626,ВАЗ-1801,,,,,модель автомобиля
+http://www.wikidata.org/entity/Q19614124,ВАЗ-2802,,,,,грузовой автомобиль
+http://www.wikidata.org/entity/Q19614124,ВАЗ-2802,,,,,электромобиль

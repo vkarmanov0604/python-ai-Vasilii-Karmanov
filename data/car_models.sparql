@@ -1,0 +1,23 @@
+# Данные об автомобильных моделях: модель, производитель, год появления и тип модели.
+# Car model data: model, manufacturer, inception year, and model type.
+
+SELECT DISTINCT
+  ?model
+  ?modelLabel
+  ?manufacturer
+  ?manufacturerLabel
+  ?inception
+  (YEAR(?inception) AS ?inceptionYear)
+  ?modelTypeLabel
+WHERE {
+  ?model wdt:P31/wdt:P279* wd:Q3231690.
+
+  OPTIONAL { ?model wdt:P176 ?manufacturer. }
+  OPTIONAL { ?model wdt:P571 ?inception. }
+  OPTIONAL { ?model wdt:P31 ?modelType. }
+
+  SERVICE wikibase:label {
+    bd:serviceParam wikibase:language "ru,en".
+  }
+}
+ORDER BY ?modelLabel

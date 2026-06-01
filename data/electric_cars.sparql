@@ -1,0 +1,23 @@
+# Данные об электромобилях: модель, производитель, год появления и тип.
+# Electric car data: model, manufacturer, inception year, and type.
+
+SELECT DISTINCT
+  ?car
+  ?carLabel
+  ?manufacturer
+  ?manufacturerLabel
+  ?inception
+  (YEAR(?inception) AS ?inceptionYear)
+  ?typeLabel
+WHERE {
+  ?car wdt:P31/wdt:P279* wd:Q193692.
+
+  OPTIONAL { ?car wdt:P176 ?manufacturer. }
+  OPTIONAL { ?car wdt:P571 ?inception. }
+  OPTIONAL { ?car wdt:P31 ?type. }
+
+  SERVICE wikibase:label {
+    bd:serviceParam wikibase:language "ru,en".
+  }
+}
+ORDER BY ?carLabel

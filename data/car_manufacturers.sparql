@@ -1,0 +1,24 @@
+# Данные об автопроизводителях: производитель, страна, штаб-квартира и год основания.
+# Automobile manufacturer data: manufacturer, country, headquarters, and founding year.
+
+SELECT DISTINCT
+  ?manufacturer
+  ?manufacturerLabel
+  ?country
+  ?countryLabel
+  ?headquarters
+  ?headquartersLabel
+  ?inception
+  (YEAR(?inception) AS ?foundingYear)
+WHERE {
+  ?manufacturer wdt:P31/wdt:P279* wd:Q786820.
+
+  OPTIONAL { ?manufacturer wdt:P17 ?country. }
+  OPTIONAL { ?manufacturer wdt:P159 ?headquarters. }
+  OPTIONAL { ?manufacturer wdt:P571 ?inception. }
+
+  SERVICE wikibase:label {
+    bd:serviceParam wikibase:language "ru,en".
+  }
+}
+ORDER BY ?manufacturerLabel
